@@ -1,4 +1,5 @@
-# Project5
+# Scene-Practice
+Made Fall 2021
 
 I made this as part of my digital arts & sciences class. 
 We were practicing rendering full scenes of imported models.
